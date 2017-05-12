@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pixmaps">
+        <file>Square.png</file>
+        <file>Note.png</file>
+        <file>Cup.png</file>
+        <file>icontuna.png</file>
+        <file>ahituna.png</file>
+    </qresource>
+</RCC>
